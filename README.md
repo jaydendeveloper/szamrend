@@ -7,7 +7,7 @@
 - merge 545b285
 - branch
 - checkout
-- tag
+- tag 545b285
 - .gitignore letrehozasa d418300
 
 ## graph;
